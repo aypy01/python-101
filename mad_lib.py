@@ -1,7 +1,7 @@
-# 🧙‍♂️ Harry Potter Mad Lib Game
+#  Harry Potter Mad Lib Game
 # A beginner-friendly fill-in-the-blanks game using input() and f-strings.
 
-print("✨ Welcome to the Harry Potter Mad Lib Adventure ✨")
+print(" Welcome to the Harry Potter Mad Lib Adventure ")
 print("Just answer a few questions to complete your magical story...\n")
 input("Press Enter to enter Hogwarts...")
 
@@ -24,5 +24,5 @@ Hidden behind it was a mysterious {object_found}, glowing with enchantments.
 From that day on, {wizard_name} became the true hero of {place}.
 """
 
-print("\n📝 Your Magical Story:\n")
+print("\n Your Magical Story:\n")
 print(story)
